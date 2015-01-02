@@ -24,7 +24,7 @@
     lat: 37.771350,
     lng: -122.455883,
     content: 'I like lice',
-    icon: 'http://mapicons.nicolasmollet.com/wp-content/uploads/mapicons/shape-default/color-128e4d/shapecolor-color/shadow-1/border-dark/symbolstyle-white/symbolshadowstyle-dark/gradient-no/rice.png'
+    icon: 'http://mapicons.nicolasmollet.com/wp-content/uploads/mapicons/shape-default/color-66c547/shapecolor-color/shadow-1/border-dark/symbolstyle-white/symbolshadowstyle-dark/gradient-no/temple-2.png'
   });  
 
     console.log(map.markers);
